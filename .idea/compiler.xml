@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stock-service" />
+        <module name="discoveru-service" />
+        <module name="etude-service" />
+        <module name="support-service" />
+        <module name="notification-servvice" />
+        <module name="projet-service" />
+        <module name="user-service" />
+        <module name="demande-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demande-service" target="11" />
+      <module name="discoveru-service" target="11" />
+      <module name="etude-service" target="11" />
+      <module name="notification-servvice" target="11" />
+      <module name="projet-service" target="11" />
+      <module name="stock-service" target="11" />
+      <module name="support-service" target="11" />
+      <module name="user-service" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demande-service" options="-parameters" />
+      <module name="discoveru-service" options="-parameters" />
+      <module name="etude-service" options="-parameters" />
+      <module name="notification-servvice" options="-parameters" />
+      <module name="projet-service" options="-parameters" />
+      <module name="stock-service" options="-parameters" />
+      <module name="support-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

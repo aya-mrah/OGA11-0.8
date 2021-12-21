@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OGA-11-08.iml" filepath="$PROJECT_DIR$/.idea/OGA-11-08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demande-service/demande-service.iml" filepath="$PROJECT_DIR$/demande-service/demande-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoveru-service/discoveru-service.iml" filepath="$PROJECT_DIR$/discoveru-service/discoveru-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etude-service/etude-service.iml" filepath="$PROJECT_DIR$/etude-service/etude-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification-servvice/notification-servvice.iml" filepath="$PROJECT_DIR$/notification-servvice/notification-servvice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet-service/projet-service.iml" filepath="$PROJECT_DIR$/projet-service/projet-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock-service/stock-service.iml" filepath="$PROJECT_DIR$/stock-service/stock-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/support-service/support-service.iml" filepath="$PROJECT_DIR$/support-service/support-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service.iml" filepath="$PROJECT_DIR$/user-service/user-service.iml" />
+    </modules>
+  </component>
+</project>
